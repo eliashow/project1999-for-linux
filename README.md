@@ -29,7 +29,7 @@ The 'Project1999' folder is in /home/$USER/ so just cd into that directory and r
 To fix the sound and play the MIDI tracks you'll have to configure that manually through qsynth. See this wiki for additional information: https://wiki.project1999.com/EverQuest_in_Linux_Guide
 
 ## Sound
-https://github.com/eliashow/project1999-for-linux/-/tree/master/Screenshots
+https://github.com/eliashow/project1999-for-linux/tree/master/Screenshots
 
 Qsynth must be running to get sound in Project1999 EverQuest
 
